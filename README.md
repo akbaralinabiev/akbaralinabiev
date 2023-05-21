@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Java, Spring**
 
-- 👨‍💻 All of my projects are available at [www.akbaralinabiev.com](www.akbaralinabiev.com)
-
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 👨‍💻 All of my projects are available at [[www.akbaralinabiev.com](https://akbaralinabiev.com/)](www.akbaralinabiev.com)
 
 - 💬 Ask me about **Java, Figma, Photoshop**
 
