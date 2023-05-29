@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev" alt="akbaralinabiev" /></a> </p>
 
 
-- 🔭 I’m currently working on **Medical App Project**
+- 🔭 I’m currently working on **PHP MVC Project**
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 I’m currently learning **PHP MVC**
 
 - 👨‍💻 All of my projects are available at [akbaralinabiev.com](https://akbaralinabiev.com/)
 
