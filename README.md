@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev" alt="akbaralinabiev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twitter.com/zukunftigerarzt" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/zukunftigerarzt?logo=twitter&style=for-the-badge" alt="twitter.com/zukunftigerarzt" /></a> </p>
 
 - 🔭 I’m currently working on **Medical App Project**
 
