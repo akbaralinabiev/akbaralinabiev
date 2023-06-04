@@ -15,6 +15,14 @@
 
 ---
 
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#34](https://github.com/akbaralinabiev/repo-name/pull/34) in [akbaralinabiev/repo-name](https://github.com/akbaralinabiev/repo-name)
+2. ❗️ Closed issue [#23](https://github.com/akbaralinabiev/repo-name/issues/23) in [akbaralinabiev/repo-name](https://github.com/akbaralinabiev/repo-name)
+3. 🗣 Commented on [#45](https://github.com/akbaralinabiev/repo-name/issues/45) in [akbaralinabiev/repo-name](https://github.com/akbaralinabiev/repo-name)
+4. 🎉 Merged PR [#87](https://github.com/akbaralinabiev/repo-name/pull/87) in [akbaralinabiev/repo-name](https://github.com/akbaralinabiev/repo-name)
+5. 🗣 Commented on [#112](https://github.com/akbaralinabiev/repo-name/issues/112) in [akbaralinabiev/repo-name](https://github.com/akbaralinabiev/repo-name)
+<!--END_SECTION:activity-->
+
 ### Spotify Playing 🎧
 
 
