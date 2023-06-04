@@ -39,13 +39,10 @@
 </a>
   
   
-  <a href="https://github.com/akbaralinabiev" target="_blank">
-  <div style="background-color: white; display: inline-block; padding: 5px;">
+<a href="https://github.com/akbaralinabiev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" style="margin-bottom: 5px;" />
-  </div>
 </a>
 
-  
  <a href="https://twitter.com/zukunftigerarzt" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
