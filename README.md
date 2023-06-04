@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=akbaralinabiev)](https://github.com/akbaralinabiev/github-profile-trophy)
+ <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
