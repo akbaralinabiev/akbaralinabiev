@@ -4,27 +4,18 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, PHP etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💬 Ask me about **Figma, Adobe Photoshop, Adobe Lightroom**
+- 👨‍💻 All of my desing rojects are available at [akbaralinabiev.com](https://akbaralinabiev.com/)
 - ⚡ Fun fact: I love to play Chess &#9812;
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📫 How to reach me **akbaralinabiev14@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbaralinabiev&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralinabiev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev" alt="akbaralinabiev" /></a> </p>
 
-
-- 🔭 I’m currently working on **PHP MVC Project**
-
-- 🌱 I’m currently learning **PHP MVC**
-
-- 👨‍💻 All of my projects are available at [akbaralinabiev.com](https://akbaralinabiev.com/)
-
-- 💬 Ask me about **Java, Figma, Photoshop**
-
-- 📫 How to reach me **akbaralinabiev14@gmail.com**
-
-- ⚡ Fun fact **I wish I could sleep at least 7 hours**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
