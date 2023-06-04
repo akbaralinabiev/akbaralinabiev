@@ -12,10 +12,11 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me **akbaralinabiev14@gmail.com**
 
+---
 
 ### Spotify Playing 🎧
 
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31oekecwz2sroyewwuwyt4wy4zum)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31oekecwz2sroyewwuwyt4wy4zum)
 
 ---
 
