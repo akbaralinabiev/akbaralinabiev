@@ -29,7 +29,7 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=akbaralinabiev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
 
