@@ -16,11 +16,8 @@
 
 ### Spotify Playing 🎧
 
-<div align="center">
-  <a>
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="600" height="140">
-  </a>
-</div>
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris
 
 
 ---
