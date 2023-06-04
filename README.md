@@ -1,23 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akbarali</h1>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<p align="center">
-  <a href="https://github.com/akbaralinabiev/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/akbaralinabiev/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/akbaralinabiev/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/akbaralinabiev/github-readme-stats" />
-  </a>
-  <a href="https://codecov.io/gh/akbaralinabiev/github-readme-stats">
-    <img src="https://codecov.io/gh/akbaralinabiev/github-readme-stats/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://github.com/akbaralinabiev/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/akbaralinabiev/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://github.com/akbaralinabiev/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/akbaralinabiev/github-readme-stats?color=0088ff" />
-    </a>
-</p>
+
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 ## I'm a Computer Science and Engineering Student  
