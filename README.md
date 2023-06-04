@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AKbarali</h1>
+<h1 align="center">Hi 👋, I'm Akbarali</h1>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
