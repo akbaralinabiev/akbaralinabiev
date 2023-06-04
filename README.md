@@ -2,22 +2,23 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p align="center">
-    <a href="https://github.com/akbaralinabiev/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/akbaralinabiev/github-readme-stats/workflows/Test/badge.svg" />
+  <a href="https://github.com/akbaralinabiev/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/akbaralinabiev/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://github.com/akbaralinabiev/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/akbaralinabiev/github-readme-stats" />
+  </a>
+  <a href="https://codecov.io/gh/akbaralinabiev/github-readme-stats">
+    <img src="https://codecov.io/gh/akbaralinabiev/github-readme-stats/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/akbaralinabiev/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/akbaralinabiev/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/akbaralinabiev/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/akbaralinabiev/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/akbaralinabiev/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/akbaralinabiev/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/akbaralinabiev/github-readme-stats">
-      <img src="https://codecov.io/gh/akbaralinabiev/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/akbaralinabiev/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/akbaralinabiev/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/akbaralinabiev/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/akbaralinabiev/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
+</p>
+
 
 ## I'm a Computer Science and Engineering Student  
 
