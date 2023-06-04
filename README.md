@@ -35,15 +35,16 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/akbarali-nabiev-4b89a1212/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Akash Shrivastava linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
   
- <a href="https://github.com/akbaralinabiev" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Akash Shrivastava GitHub style="margin-bottom: 5px;" />
+<a href="https://github.com/akbaralinabiev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" style="margin-bottom: 5px; background-color: white;" />
 </a>
+
   
  <a href="https://twitter.com/zukunftigerarzt" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Akash Shrivastava twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
 
 <a href="mailto:akbaralinabiev14@gmail.com" target="_blank">
@@ -52,11 +53,11 @@
 
 
 <a href="https://www.instagram.com/akbarali_nabiev/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
                                                                                                                                                  
 <a href="https://www.facebook.com/akbarali.nabiev14" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Akash Shrivastava Facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>  
  
 </div>  
