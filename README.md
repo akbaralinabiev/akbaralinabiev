@@ -38,10 +38,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
   
-<a href="https://github.com/akbaralinabiev" target="_blank">
-  <span style="background-color: white; padding: 5px;">
+  
+  <a href="https://github.com/akbaralinabiev" target="_blank">
+  <div style="background-color: white; display: inline-block; padding: 5px;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" style="margin-bottom: 5px;" />
-  </span>
+  </div>
 </a>
 
   
