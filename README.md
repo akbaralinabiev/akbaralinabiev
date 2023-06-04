@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akbarali</h1>
-
+--
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-
+--
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, PHP etc.
@@ -30,6 +30,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
+---
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
 
