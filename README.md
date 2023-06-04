@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/akbarali-nabiev-4b89a1212/]
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
