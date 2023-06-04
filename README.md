@@ -45,6 +45,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbaralinabiev&show_icons=true&locale=en&layout=compact" alt="akbaralinabiev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&show_icons=true&locale=en" alt="akbaralinabiev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&" alt="akbaralinabiev" /></p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akbaralinabiev&theme=dark&hide_border=true" width="400">
+</p>
+
