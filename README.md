@@ -47,8 +47,9 @@
 </a>
 
 <a href="mailto:akbaralinabiev14@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Akbarali Nabiev gmail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Akbarali Nabiev gmail" style="margin-bottom: 5px;" />
 </a>
+
 
 <a href="https://www.instagram.com/akbarali_nabiev/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
