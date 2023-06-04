@@ -31,14 +31,36 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev" alt="akbaralinabiev" /></a> </p>
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45" align="left">  Connect with me:
-<p align="left">
+### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/akbarali-nabiev-4b89a1212/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Akash Shrivastava linkedin style="margin-bottom: 5px;" />
+</a>
   
-<a href="https://twitter.com/twitter.com/zukunftigerarzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/zukunftigerarzt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akbarali-nabiev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akbarali-nabiev/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/akbarali.nabiev14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akbarali.nabiev14" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfxmu9ranudj4fll4aktd8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfxmu9ranudj4fll4aktd8a" height="30" width="40" /></a>
-</p>
+ <a href="https://github.com/akbaralinabiev" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Akash Shrivastava GitHub style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://twitter.com/zukunftigerarzt" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Akash Shrivastava twitter style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:akbaralinabiev14@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Akbarali Nabiev gmail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/akbarali_nabiev/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
+</a>
+                                                                                                                                                 
+<a href="https://www.facebook.com/akbarali.nabiev14" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Akash Shrivastava Facebook style="margin-bottom: 5px;" />
+</a>  
+ 
+</div>  
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
