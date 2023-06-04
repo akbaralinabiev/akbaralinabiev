@@ -27,7 +27,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbaralinabiev&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralinabiev" /> </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,SS,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
