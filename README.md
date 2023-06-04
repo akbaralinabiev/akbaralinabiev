@@ -17,7 +17,7 @@
 ### Spotify Playing 🎧
 
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_USER_ID)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify)](https://open.spotify.com)
 
 
 
