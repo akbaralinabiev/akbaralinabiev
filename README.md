@@ -27,7 +27,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbaralinabiev&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralinabiev" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akbaralinabiev)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
