@@ -17,7 +17,7 @@
 ### Spotify Playing 🎧
 
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify)](https://open.spotify.com)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
 
 
 
