@@ -32,7 +32,6 @@
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
 
 <div align="center">
-  ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
  <a href="https://www.linkedin.com/in/akbarali-nabiev-4b89a1212/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt= style="margin-bottom: 5px;" />
 </a>
@@ -79,7 +78,7 @@
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akbaralinabiev&show_icons=true&locale=en&layout=compact" alt="akbaralinabiev" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akbaralinabiev&show_icons=true&locale=en&layout=compact" alt="akbaralinabiev" /></p>
 
 
 
