@@ -22,14 +22,11 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31oekecwz2sroyewwuwyt4wy4zum)
 </div>
 
-
-
-
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbaralinabiev&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralinabiev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev" alt="akbaralinabiev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev" alt="akbaralinabiev" /></a> </p>
 
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
