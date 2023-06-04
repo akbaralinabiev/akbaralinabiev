@@ -26,12 +26,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbaralinabiev&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralinabiev" /> </p>
 
-
 <p align="center">
- <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=akbaralinabiev)](https://github.com/akbaralinabiev/github-profile-trophy)
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="26px">
 
