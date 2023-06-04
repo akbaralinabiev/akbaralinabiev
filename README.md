@@ -16,7 +16,12 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31oekecwz2sroyewwuwyt4wy4zum)
+<div align="center">
+  <a href="https://open.spotify.com/user/31oekecwz2sroyewwuwyt4wy4zum">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="400" height="80">
+  </a>
+</div>
+
 
 ---
 
