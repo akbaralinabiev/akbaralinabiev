@@ -17,7 +17,7 @@
 ### Spotify Playing 🎧
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31oekecwz2sroyewwuwyt4wy4zum">
+  <a>
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="600" height="140">
   </a>
 </div>
