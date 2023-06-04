@@ -17,7 +17,9 @@
 ### Spotify Playing 🎧
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)](https://accounts.spotify.com/authorize?client_id={840f41bef4fc474c86bd5f15ef51d069}&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 
 
