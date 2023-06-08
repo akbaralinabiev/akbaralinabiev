@@ -69,10 +69,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="background-color: #1572B6; padding: 8px; border-radius: 4px;">
+        <span style="display: block; text-align: center; color: #1572B6;">CSS3</span>
     </a>
-
 
 
 
