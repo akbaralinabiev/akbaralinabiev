@@ -84,7 +84,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akbaralinabiev&show_icons=true&locale=en&layout=compact" alt="akbaralinabiev" /></p>
 
 <div align="center">
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; gap: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
   </div>
