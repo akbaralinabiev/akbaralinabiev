@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akbaralinabiev&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralinabiev" /> </p>
 <h1 align="center">Hi 👋, I'm Akbarali</h1>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -24,7 +25,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akbaralinabiev&label=Profile%20views&color=0e75b6&style=flat" alt="akbaralinabiev" /> </p>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=akbaralinabiev&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
