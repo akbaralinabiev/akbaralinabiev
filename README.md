@@ -69,47 +69,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="#">
-        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    </a>
-     <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-</a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</a>
-
-
-
-
----
-
-  
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
-
-
-
-  
-  
   <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp; 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -126,5 +85,15 @@
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+---
+&nbsp;
+  &nbsp;
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
 
