@@ -83,11 +83,15 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akbaralinabiev&show_icons=true&locale=en&layout=compact" alt="akbaralinabiev" /></p>
 
-|![](https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>|
-|---|---|
+![](https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
 
 |<img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev"/>|
