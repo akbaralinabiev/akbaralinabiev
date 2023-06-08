@@ -68,6 +68,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 
