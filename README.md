@@ -109,6 +109,26 @@
 </div>
 
 
+| Tool        | Description          |
+|-------------|----------------------|
+| Python      | Programming language |
+| JavaScript  | Programming language |
+| HTML5       | Markup language      |
+| CSS3        | Styling language     |
+| React       | JavaScript library   |
+| Node.js     | JavaScript runtime   |
+| Express.js  | Node.js framework    |
+| MongoDB     | NoSQL database       |
+| MySQL       | Relational database  |
+| Git         | Version control      |
+| GitHub      | Git repository       |
+| Figma       | Design tool          |
+| Sketch      | Design tool          |
+| VS Code     | Code editor          |
+| Postman     | API development      |
+| PyCharm     | Python IDE           |
+| Premiere Pro| Video editing        |
+| Adobe Lightroom | Photo editing      |
 
 
 
