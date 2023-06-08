@@ -85,6 +85,9 @@
      <a href="#" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+</a>
 
 ---
 
