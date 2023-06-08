@@ -88,18 +88,16 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
 </a>
-    <a href="#" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/adobe_premierepro/adobe_premierepro-icon.svg" alt="Premiere Pro" width="40" height="40">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </a>
 
-<a href="#" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/adobe_lightroom/adobe_lightroom-icon.svg" alt="Adobe Lightroom" width="40" height="40">
-</a>
 
 
 
 ---
 
+  
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
@@ -108,27 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
-
-| Tool        | Description          |
-|-------------|----------------------|
-| Python      | Programming language |
-| JavaScript  | Programming language |
-| HTML5       | Markup language      |
-| CSS3        | Styling language     |
-| React       | JavaScript library   |
-| Node.js     | JavaScript runtime   |
-| Express.js  | Node.js framework    |
-| MongoDB     | NoSQL database       |
-| MySQL       | Relational database  |
-| Git         | Version control      |
-| GitHub      | Git repository       |
-| Figma       | Design tool          |
-| Sketch      | Design tool          |
-| VS Code     | Code editor          |
-| Postman     | API development      |
-| PyCharm     | Python IDE           |
-| Premiere Pro| Video editing        |
-| Adobe Lightroom | Photo editing      |
 
 
 
