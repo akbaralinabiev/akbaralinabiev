@@ -88,6 +88,30 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
 </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
+</a>
+
+<a href="#" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40">
+</a>
+
+<a href="#" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/adobe_premierepro/adobe_premierepro-icon.svg" alt="Premiere Pro" width="40" height="40">
+</a>
+
+<a href="#" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40">
+</a>
+
+<a href="#" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
+</a>
+
+<a href="#" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40">
+</a>
+
 
 ---
 
