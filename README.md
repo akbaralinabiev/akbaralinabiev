@@ -68,9 +68,16 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="#">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="#">
         <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </a>
+    <!-- Add more badge links here -->
+</div>
+
 
 
 
