@@ -69,11 +69,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+ <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="#">
+        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </a>
 
-
+---
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
