@@ -81,26 +81,18 @@
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akbaralinabiev&show_icons=true&locale=en&layout=compact" alt="akbaralinabiev" /></p>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev"/>|
-|---|---|
 
 
 
