@@ -8,8 +8,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, PHP etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💬 Ask me about **Figma, Adobe Photoshop, Adobe Lightroom**
-- 👨‍💻 All of my design projects are available at [akbaralinabiev.com](https://akbaralinabiev.com/)
+- 💬 Ask me about **Frontend, UI/UX**
 - ⚡ Fun fact: I love to play Chess &#9812;
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me **akbaralinabiev14@gmail.com**
