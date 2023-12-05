@@ -91,7 +91,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
 
