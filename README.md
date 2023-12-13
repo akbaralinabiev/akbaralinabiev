@@ -91,8 +91,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
     <img
      alt=stats1
-     align=center
-     style="object-fit: none; object-position: 0 -50px;"
+     style="object-fit: none; justify-content: center;"
      src=https://github-readme-stats.vercel.app/api?username=akbaralinabiev&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
   </div>
