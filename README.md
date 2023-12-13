@@ -89,6 +89,11 @@
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
+    <img
+     alt=stats1
+     align=center
+     style="object-fit: none; object-position: 0 -50px;"
+     src=https://github-readme-stats.vercel.app/api?username=akbaralinabiev&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
@@ -98,12 +103,6 @@
 </div>
 
 
-<div class=stats>
-    <img
-     alt=stats1
-     align=right
-     style="object-fit: none; object-position: 0 -50px;"
-     src=https://github-readme-stats.vercel.app/api?username=akbaralinabiev&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
-</div>
+
 
 
