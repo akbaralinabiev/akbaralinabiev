@@ -89,8 +89,6 @@
 ![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&show_icons=true\&show=reviews,discussions_started,prs_merged,prs_merged_percentage,&rank_icon=percentile)
    
 &nbsp;
-![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&rank_icon=percentile)
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
 
