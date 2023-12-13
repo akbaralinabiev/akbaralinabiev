@@ -88,20 +88,17 @@
   &nbsp;
 
    ![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img
-     alt=stats1
-     style="object-fit: none; justify-content: center;"
-     src=https://github-readme-stats.vercel.app/api?username=akbaralinabiev&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
-  </div>
+![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&rank_icon=percentile)
+
+
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralinabiev&theme=tokyo&hide_border=false" alt="GitHub Streak Stats">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&rank_icon=percentile)
 
 
-</div>
+
 
 
 
