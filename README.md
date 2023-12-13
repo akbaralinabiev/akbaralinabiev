@@ -86,7 +86,7 @@
 ---
 &nbsp;
 
-![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&show_icons=true\&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
    
 &nbsp;
 ![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&rank_icon=percentile)
