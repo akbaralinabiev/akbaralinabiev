@@ -89,6 +89,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 40px;">
+    ![Akbarali Nabiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
     <img
      alt=stats1
      style="object-fit: none; justify-content: center;"
@@ -97,7 +98,7 @@
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaralinabiev&theme=tokyo&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaralinabiev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 
 </div>
